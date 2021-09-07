@@ -5,7 +5,7 @@ include "includes/_header.php";
 ?>
 
 <form class="form-signin">
-    <h2 class="form-signin-heading">Please sign in </h2>
+    <h2 class="form-signin-heading">Please sign in as admin</h2>
     <label for="inputEmail" class="sr-only">Username</label>
     <input type="input" id="username" class="form-control" placeholder="Username" required autofocus>
     <label for="inputPassword" class="sr-only">Password</label>
